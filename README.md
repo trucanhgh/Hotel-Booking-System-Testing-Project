@@ -24,6 +24,19 @@ Hệ thống tài liệu được tổ chức để minh họa quy trình kiểm
 * **[Danh sách Test Case (Excel Version)](./resources/TestCases.xlsx)**: File đầy đủ các kịch bản kiểm thử chức năng và Database.
 
 ---
+
+## Thống kê kịch bản kiểm thử (Test Case Distribution)
+
+| Module | Số lượng TC | Loại kiểm thử | Mục tiêu trọng tâm |
+|---|:---:|---|---|
+| Tìm kiếm & Hiển thị | 26 | Manual/UI | Kiểm tra bộ lọc, logic ngày và hiển thị danh sách |
+| Quy trình Đặt phòng | 26 | Manual/UX | Xác thực thông tin khách hàng và luồng chọn phòng |
+| Thanh toán | 23 | Manual/Integration | Kiểm tra các phương thức thanh toán và xử lý lỗi |
+| Xác minh Database | 25 | SQL Testing | Kiểm tra ràng buộc (Constraint) và tính toàn vẹn dữ liệu |
+| **Tổng cộng** | **100** |  |  |
+
+---
+
 ## Kỹ năng thể hiện
 
 * **Phân tích yêu cầu nghiệp vụ từ hệ thống thực tế:** Khả năng bóc tách luồng nghiệp vụ từ tài liệu đặc tả.
