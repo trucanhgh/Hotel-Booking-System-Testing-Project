@@ -21,7 +21,7 @@ Hệ thống tài liệu được tổ chức để minh họa quy trình kiểm
 
 * **[Phân tích yêu cầu](./docs/RequirementsAnalysis.md)**:  Chi tiết các yêu cầu chức năng, phi chức năng và căn cứ thiết kế kịch bản kiểm thử.
 * **[Danh sách Test Case (Markdown Version)](./docs/TestCases.md)**: Bản xem nhanh 96 kịch bản kiểm thử trực tiếp trên trình duyệt.
-* **[Danh sách Test Case (Excel Version)](./resources/QC_Intern_TestCase_TranPhamTrucAnh.xlsx)**: File đầy đủ các kịch bản kiểm thử chức năng và Database.
+* **[Danh sách Test Case (Excel Version)](./resources/TestCases.xlsx)**: File đầy đủ các kịch bản kiểm thử chức năng và Database.
 
 ---
 ## Kỹ năng thể hiện
