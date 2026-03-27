@@ -161,7 +161,7 @@ Sau khi hoàn tất thanh toán, hệ thống chuyển sang trang xác nhận bo
 
 ### 2.2 Quan hệ giữa các bảng
 
-
+![Hotel Booking ERD](./images/HotelBookingERD.png)
 
 Booking có thể có nhiều Payment records vì:
 - **0 record:** user tạo Booking nhưng bỏ ngang, chưa thực hiện thanh toán lần nào
