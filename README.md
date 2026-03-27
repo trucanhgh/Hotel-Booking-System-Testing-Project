@@ -10,7 +10,7 @@ Dự án tập trung vào việc lập kế hoạch và thực thi kiểm thử 
 |---|---|
 | **Hệ thống kiểm thử** | Nền tảng đặt phòng khách sạn trực tuyến |
 | **Phạm vi** | Tìm kiếm, Đặt phòng, Thanh toán & Database |
-| **Loại kiểm thử** | Manual Testing, Black-box, Database Testing |
+| **Loại kiểm thử** | Manual Testing, Database Testing |
 | **Công cụ** | Excel, SQL, Postman |
 
 ---
