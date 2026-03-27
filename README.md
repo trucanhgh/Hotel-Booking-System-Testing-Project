@@ -1,4 +1,4 @@
-# Hotel Booking System Testing
+# Hotel Booking System Testing Project
 
 > Manual Testing & Database Verification
 
